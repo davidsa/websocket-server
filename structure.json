@@ -1,0 +1,81 @@
+{
+  "headers": {
+    "device": "frame"
+  },
+  "data": {
+    "regions": [
+      {
+        "name":"P1",
+        "statechange": false
+      },
+      {
+        "name":"P2",
+        "statechange": false
+      },
+      {
+        "name":"P3",
+        "statechange": false
+      },
+      {
+        "name":"P4",
+        "statechange": false
+      },
+      {
+        "name":"P5",
+        "statechange": false
+      },
+      {
+        "name":"P6",
+        "statechange": false
+      },
+      {
+        "name":"P7",
+        "statechange": false
+      },
+      {
+        "name":"P8",
+        "statechange": false
+      },
+      {
+        "name":"P9",
+        "statechange": false
+      },
+      {
+        "name":"P10",
+        "statechange": false
+      },
+      {
+        "name":"P11",
+        "statechange": false
+      },
+      {
+        "name":"P12",
+        "statechange": false
+      },
+      {
+        "name":"P13",
+        "statechange": false
+      },
+      {
+        "name":"P14",
+        "statechange": false
+      },
+      {
+        "name":"P15",
+        "statechange": false
+      },
+      {
+        "name":"P16",
+        "statechange": false
+      },
+      {
+        "name":"P17",
+        "statechange": false
+      },
+      {
+        "name":"P18",
+        "statechange": false
+      }
+    ]
+  }
+}
